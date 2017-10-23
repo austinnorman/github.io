@@ -1,3 +1,3 @@
 # FacebookFrame
 
-![filter](lake.jpg?raw=true "Optional Title")
+![Lake](lake.jpg?raw=true "Optional Title")
